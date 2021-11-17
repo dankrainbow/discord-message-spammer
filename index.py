@@ -22,7 +22,7 @@ os.system("cls")
 
 msg = input("Message to spam?")
 
-slowtype("You have untill this countdown finishes (5 Seconds) to put your cursor on the place you want to spam")
+print("You have untill this countdown finishes (5 Seconds) to put your cursor on the place you want to spam")
 
 print("\n")
 print("5")
